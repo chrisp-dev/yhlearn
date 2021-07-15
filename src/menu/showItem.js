@@ -1,8 +1,10 @@
 import { FlashcardComponent } from 'react-flashcard'
+import shuffle from '../helpers/shuffle'
 
 function showItem(e, x, category, reverse) {
   if (!x) return null
   let data1
+  shuffle(x)
 
   if (category && category !== 'all') {
     if (reverse) {
