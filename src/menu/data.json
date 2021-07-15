@@ -1,0 +1,952 @@
+[
+  {
+    "name": "Poke Nachos",
+    "description": "marinated raw ahi, crispy wontons, avocado, serranos, white truffle sauce, sweet soy ginger sauce, sriracha aioli, cilantro, green onions, nori, sesame seeds.",
+    "calories": 870,
+    "category": "appetizer",
+    "price": 15.49,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [
+      "marinated raw ahi",
+      "crispy wontons",
+      "avocado",
+      "serranos",
+      "white truffle sauce",
+      "sweet soy ginger sauce",
+      "sriracha aioli",
+      "cilantro",
+      "green onions",
+      "nori",
+      "sesame seeds"
+    ],
+    "spicy": true,
+    "options": ["Serranos on the side", "Sriracha Aioli on the side", "No Cilantro"]
+  },
+  {
+    "name": "Chicken Nachos",
+    "description": "pinto beans, cheddar, monterey jack, tomato, cilantro, red & green sauce, onions, crushed avocado, sour cream, house pickled jalapenos.",
+    "calories": 2630,
+    "category": "appetizer",
+    "price": 14.99,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Ahi Sashimi",
+    "description": "seared rare, blackened, soy vinaigrette, wasabi, pickled vegetables, ginger.",
+    "calories": 470,
+    "category": "appetizer",
+    "price": 15.49,
+    "isFood": true,
+    "happyHour": "0",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Firecracker Shrimp",
+    "description": "tempura shrimp, sweet chili sriracha, crispy rice cake, sweet soy ginger, green onions, red pepper threads, cilantro.",
+    "calories": 1320,
+    "category": "appetizer",
+    "price": 14.99,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": true,
+    "options": []
+  },
+  {
+    "name": "Four Cheese Spinach Dip",
+    "description": "feta, jack, parmesan, cream heese, crispy flatbread.",
+    "calories": 1150,
+    "category": "appetizer",
+    "price": 14.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": ["Also available as a Gluten Sensitive Item."]
+  },
+  {
+    "name": "Spicy Tuna Stack",
+    "description": "avocado, edamame, cucumber, cilantro, nori, wasabi soy sauce.",
+    "calories": 550,
+    "category": "appetizer",
+    "price": 14.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": true,
+    "options": []
+  },
+  {
+    "name": "Fried Calamari",
+    "description": "spicy tomato sauce, roasted jalapeno tartar.",
+    "calories": 990,
+    "category": "appetizer",
+    "price": 13.99,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Cali Roll Stack",
+    "description": "crab, crispy rice cake, baby tomatoes, avocado, cucumber, serranos, masago, nori, sweet soy ginger, cilantro, pickled ginger aioli.",
+    "calories": 970,
+    "category": "appetizer",
+    "price": 14.99,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": true,
+    "options": []
+  },
+  {
+    "name": "Onion Ring Tower",
+    "description": "beer-battered, parmesan, chipotle ranch, buttermilk ranch.",
+    "favorite": true,
+    "calories": 1330,
+    "category": "appetizer",
+    "price": 10.99,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "toasted artisan bread, crushed avocado, whipped feta, red onion, arugula, baby tomatoes.",
+    "calories": 750,
+    "category": "appetizer",
+    "price": 11.99,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Jumbo Bavarian Pretzel",
+    "description": "house IPA white cheddar beer cheese, horseradish mustard.",
+    "calories": 1440,
+    "category": "appetizer",
+    "price": 12.79,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Wisconsin Fried Cheese Curds",
+    "description": "honey hot sauce, horseradish aioli.",
+    "calories": 1980,
+    "category": "appetizer",
+    "price": 11.99,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Fried Chicken Tenders",
+    "description": "maple dijon, buttermilk ranch, fries.",
+    "calories": 1320,
+    "category": "appetizer",
+    "price": 12.49,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Grilled Korean Beef",
+    "description": "boneless short ribs, jasmine rice, pickled vegetables, sweet soy ginger sauce.",
+    "calories": 910,
+    "category": "appetizer",
+    "price": 15.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Classic Sliders",
+    "description": "cheddar, special sauce, arugula, tomato, pickles, fries.",
+    "calories": 1320,
+    "category": "appetizer",
+    "price": 13.49,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Chicken Lettuce Wraps",
+    "description": "tofu, green onions, water chestnuts, wonton cup, pickled vegetables, sweet chili, spicy peanut veinaigrette.",
+    "calories": 770,
+    "category": "appetizer",
+    "price": 13.79,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "12 Crispy Traditional Wings",
+    "description": "choose up to two sauces: buffalo, whiskey black pepper, bbq, korean chili garlic, lemon pepper dry rub.",
+    "calories": "1100-1390",
+    "category": "appetizer",
+    "price": 14.99,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Boneless Wings",
+    "description": "choose up to two sauces: buffalo, whiskey black pepper, bbq, korean chili garlic, lemon pepper dry rub.",
+    "calories": 770,
+    "category": "appetizer",
+    "price": 13.99,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Gardein Wings",
+    "description": "choose up to two sauces: buffalo, whiskey black pepper, bbq, korean chili garlic, lemon pepper dry rub.",
+    "calories": 770,
+    "category": "appetizer",
+    "price": 13.99,
+    "isFood": true,
+    "happyHour": "1/2 off",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Shiitake Garlic Noodles",
+    "description": "shiitake mushrooms, garlic, honey, parmesan, chives.",
+    "calories": 800,
+    "category": "snack",
+    "price": 8.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Guacamole & Chips",
+    "description": "red onion, cilantro, serranos, lime.",
+    "calories": 800,
+    "category": "snack",
+    "price": 7.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Parmesan Truffle Fries",
+    "description": "tofu, green onions, water chestnuts, wonton cup, pickled vegetables, sweet chili, spicy peanut veinaigrette.",
+    "calories": 500,
+    "category": "snack",
+    "price": 5.99,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Sweet Potato Fries",
+    "description": "maple syrup.",
+    "calories": 650,
+    "category": "snack",
+    "price": 5.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Steamed Edamame",
+    "description": "soybeans with kosher salt.",
+    "calories": 180,
+    "category": "snack",
+    "price": 6.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Hot & Spicy Edamame",
+    "description": "garlic, crushed red chilis.",
+    "calories": 490,
+    "category": "snack",
+    "price": 6.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "House Fries",
+    "description": "",
+    "calories": 360,
+    "category": "snack",
+    "price": 4.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Chicken Tortilla Soup",
+    "description": "creamy white cheddar soup, roasted pasilla, tortilla strips, pico de gallo, avocado, cilantro.",
+    "calories": "610 | 1110",
+    "category": "starter soups & salads",
+    "price": 6.99,
+    "isFood": true,
+    "ingredients": [],
+    "spicy": false,
+    "options": ["Also available as a Gluten Sensitive Item."]
+  },
+  {
+    "name": "Tomato Bisque",
+    "description": "",
+    "calories": "240 | 480",
+    "category": "starter soups & salads",
+    "price": 6.49,
+    "isFood": true,
+    "ingredients": [],
+    "spicy": false,
+    "options": ["Also available as a Gluten Sensitive Item."]
+  },
+  {
+    "name": "House Salad",
+    "description": "mixed greens, baby tomatoes, carrots, croutons, white cheddar, balsamic vinaigrette.",
+    "calories": 430,
+    "category": "soups & salads",
+    "price": 8.79,
+    "isFood": true,
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Traditional Caesar",
+    "description": "hearts of romaine, parmesan crisps, croutons, caesar dressing.",
+    "calories": 0,
+    "category": "soups & salads",
+    "price": 8.49,
+    "isFood": true,
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Kale & Romaine Caesar",
+    "description": "roasted brussels sprouts, pistachios, raisins, baby tomatoes, parmesan.",
+    "calories": 0,
+    "category": "soups & salads",
+    "price": 8.99,
+    "isFood": true,
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Taco Combo",
+    "description": "two or three tacos in flour tortillas with spicy rice, pinto beans.",
+    "calories": 0,
+    "category": "street tacos",
+    "price": "varies",
+    "isFood": true,
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Vampire Taco",
+    "description": "cheese-crusted tortilla, carnitas, bacon, roasted garlic, crushed avocado, salsa roja, sour cream, cilantro.",
+    "calories": 0,
+    "category": "street tacos",
+    "price": 6.29,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Carne Asada Taco",
+    "description": "ribeye, roasted poblano, crushed avocado, onions, cilantro, salsa verde.",
+    "calories": 0,
+    "category": "street tacos",
+    "price": 6.09,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Baja Fish Taco",
+    "description": "crushed avocado, cabbage, sriracha aioli, salsa roja, cilantro.",
+    "calories": 0,
+    "category": "street tacos",
+    "price": 5.79,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Baja Shrimp Taco",
+    "description": "crushed avocado, cabbage, sriracha aioli, salsa roja, cilantro.",
+    "calories": 0,
+    "category": "street tacos",
+    "price": 5.79,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Blackened Shrimp Taco",
+    "description": "crushed avocado, cabbage, sriracha aioli, salsa roja, cilantro.",
+    "calories": 0,
+    "category": "street tacos",
+    "price": 5.79,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Grilled Korean Beef Taco",
+    "description": "ribeye, sweet gochujang broccoli slaw, sriracha aioli, green onions, sesame seeds.",
+    "calories": 0,
+    "category": "street tacos",
+    "price": 5.89,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Poke Salad",
+    "description": "marinated raw ahi, arugula, avocado, cucumbers, seaweed salad, baby tomatoes, edamame, crispy wonton, masago, nori, soy vinaigrette, sriracha aioli.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 19.79,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Ahi Crunchy Salad",
+    "description": "seared rare, blackened, field greens, broccoli slaw, crispy wontons, cilantro, soy vinaigrette.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 14.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "BBQ Chicken Salad",
+    "description": "mixed greens, avocado, pasilla, corn, cheddar, monterey jack, tortilla strips, tomato, pinto beans, fried onions, cilantro, chipotle ranch.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 12.99,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Cobb Salad",
+    "description": "mixed greens, baby tomatoes, edamame, carrots, radish, egg, bleu cheese, corn ,bacon, avocado, ranch.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 10.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Chicken Cobb Salad",
+    "description": "mixed greens, baby tomatoes, edamame, carrots, radish, egg, bleu cheese, corn ,bacon, avocado, ranch.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 15.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Shrimp Cobb Salad",
+    "description": "mixed greens, baby tomatoes, edamame, carrots, radish, egg, bleu cheese, corn, bacon, avocado, ranch.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 16.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Salmon Cobb Salad",
+    "description": "mixed greens, baby tomatoes, edamame, carrots, radish, egg, bleu cheese, corn ,bacon, avocado, ranch.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 17.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": ["Also available as a Gluten Sensitive Item."]
+  },
+  {
+    "name": "Kale & Romaine Caesar",
+    "description": "roasted brussels sprouts, pistachios, raisins, baby tomatoes, parmesan.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 8.99,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Chicken Kale & Romaine Caesar",
+    "description": "roasted brussels sprouts, pistachios, raisins, baby tomatoes, parmesan.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 13.99,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Shrimp Kale & Romaine Caesar",
+    "description": "roasted brussels sprouts, pistachios, raisins, baby tomatoes, parmesan.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 14.99,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Salmon Kale & Shrimp Salad",
+    "description": "roasted brussels sprouts, pistachios, raisins, baby tomatoes, parmesan.",
+    "calories": 0,
+    "category": "entree salads",
+    "price": 15.99,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Gardein Orange Chicken",
+    "description": "bok choy, baby corn, orange glaze, jasmine rice.",
+    "calories": 0,
+    "category": "gardein",
+    "price": 18.99,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Gardein Mac & Cheese",
+    "description": "crimini, shiitake & oyster mushrooms, truffle oil, parmesan, panko cheddar crust.",
+    "calories": 0,
+    "category": "gardein",
+    "price": 15.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Gardein BBQ Chicken Salad",
+    "description": "mixed greens, avocado, pasilla, corn, cheddar, monterey jack, tortilla strips, tomato, pinto beans, fried onions, cilantro, chipotle ranch.",
+    "calories": 0,
+    "category": "gardein",
+    "price": 16.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Gardein Grilled Chicken & Avocado Sandwich",
+    "description": "swiss, lettuce, tomato, mayo, brioche bun, fries.",
+    "calories": 0,
+    "category": "gardein",
+    "price": 14.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "The Carnivore",
+    "description": "pepperoni, seasoned beef, spicy sausage, crispy bacon, mozzarella, tomato sauce.",
+    "calories": 1520,
+    "category": "pizzas",
+    "price": 16.99,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Pepperoni & Mushroom",
+    "description": "crimini mushrooms, mozzarella, tomato sauce.",
+    "calories": 1100,
+    "category": "pizzas",
+    "price": 15.99,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Cheese",
+    "description": "fontina, mozzarella, parmesan.",
+    "calories": 1040,
+    "category": "pizzas",
+    "price": 14.99,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Margherita",
+    "description": "fresh mozzarella, roasted tomatoes, roasted garlic, fresh basil.",
+    "calories": 1070,
+    "category": "pizzas",
+    "price": 15.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "BBQ Chicken",
+    "description": "smoked gouda, mozzarella, red onion, cilantro, ancho bbq sauce.",
+    "calories": 1250,
+    "category": "pizzas",
+    "price": 16.49,
+    "isFood": true,
+    "happyHour": "",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "BBQ Bacon Cheddar",
+    "description": "smoked bacon, bbq sauce, garlic aioli, fries. Served on our new brioche bun with sesame seeds.",
+    "calories": 1370,
+    "category": "prime burgers",
+    "price": 15.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Pepper Jack",
+    "description": "roasted poblano peppers, pepper jack, sriracha mayo, fries. Served on our new brioche bun with sesame seeds.",
+    "calories": 1150,
+    "category": "prime burgers",
+    "price": 14.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Classic Cheese",
+    "description": "cheddar, lettuce, tomato, onion, garlic aioli, fries. Served on our new brioche bun with sesame seeds.",
+    "calories": 1080,
+    "category": "prime burgers",
+    "price": 13.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Hamburger",
+    "description": "lettuce, tomato, red onioin, garlic aioli, fries. Served on our new brioche bun with sesame seeds.",
+    "calories": 1030,
+    "category": "prime burgers",
+    "price": 12.49,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Kurobuta Pork",
+    "description": "spicy candied bacon, white american cheese, arugula, blueberry ketchup, fries. Served on our new brioche bun with sesame seeds.",
+    "calories": 1170,
+    "category": "prime burgers",
+    "price": 13.99,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": []
+  },
+  {
+    "name": "Beyond Burger",
+    "description": "vegan mozzarella, crushed avocado, arugula, onion, tomato, pickles, served with a side salad tossed in balsamic vinaigrette. Served on our new brioche bun with sesame seeds.",
+    "calories": 1000,
+    "category": "prime burgers",
+    "price": 16.99,
+    "isFood": true,
+    "happyHour": "full price",
+    "ingredients": [],
+    "spicy": false,
+    "options": ["Also available as a Gluten Sensitive Item."]
+  },
+  {
+    "name": "Nashville Hot Chicken Sandwich",
+    "description": "spicy sweet slaw, white cheddar, toasted brioche bun.",
+    "category": "sandwiches"
+  },
+  {
+    "name": "Grilled Chicken & Avacado Sandwich",
+    "description": "swiss, lettuce, tomato, mayo, brioche bun, fries.",
+    "category": "sandwiches"
+  },
+  {
+    "name": "Roasted Turkey Club",
+    "description": "swiss, crushed avocado, bacon, tomato, lettuce, mayo, toasted artisan bread, fries.",
+    "category": "sandwiches"
+  },
+  {
+    "name": "Roast Beef Dip",
+    "description": "swiss, horseradish aioli, french bread, au jus, fries.",
+    "category": "sandwiches"
+  },
+  {
+    "name": "Grilled Cheese & Tomato Bisque",
+    "description": "cheddar, bleu cheese, swiss, fontina, roasted tomatoes, artisan bread.",
+    "category": "sandwiches"
+  },
+  {
+    "name": "20oz Bone-In Ribeye",
+    "description": "parmesan mashed potatoes, grilled baby broccoli, steak sauce.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "20oz Bone-In Ribeye & Shrimp",
+    "description": "parmesan mashed potatoes, grilled baby broccoli, steak sauce.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "8oz Pepper Crusted Filet",
+    "description": "parmesan mashed potatoes, asparagus, honey roasted carrots, brandy shallot cream sauce.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Steak Bowl",
+    "description": "grilled sirloin, stir-fried sesame brown rice and red quinoa, shiitake mushrooms, snap peas, bok choy, carrots, red onion, asparagus, red pepper flakes.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Chicken Bowl",
+    "description": "stir-fried sesame brown rice and red quinoa, shiitake mushrooms, snap peas, bok chou, carrots, red onion, asparagus, red pepper flakes.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Shrimp Bowl",
+    "description": "stir-fried sesame brown rice and red quinoa, shiitake mushrooms, snap peas, bok chou, carrots, red onion, asparagus, red pepper flakes.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Maui Pineapple Chicken",
+    "description": "grilled with pineapple, baby broccoli, jasmine rice, sweet soy ginger sauce.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Orange Chicken",
+    "description": "bok choy, baby corn, orange glaze, jasmine rice.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Nashville Hot Chicken",
+    "description": "sweet potato pancakes, pickles, ranch dressing, honey hot sauce, fried sage.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Mac & Cheese",
+    "description": "bacon, chicken, crimini, shiitake & oyster mushrooms, truffle oil, parmesan, panko cheddar crust.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Beer-Battered Fish & Chips",
+    "description": "white fish, fries, roasted jalapeno tartar, malt vinegar aioli.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Whiskey Glazed Salmon",
+    "description": "whiskey black pepper glazed, parmesan mashed potatoes, roasted carrots, baby broccoli.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Porcini Crusted Halibut",
+    "description": "parmesan mashed potatoes, porcini cream sauce, white truffle oil, asparagus, bok choy.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Spicy Jambalaya",
+    "description": "choice of linguine or rice, blackened shrimp, andouille sausage, crawfish, chicken, peppers, cajun cream sauce.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Shrimp Zoodle Bowl",
+    "description": "zucchini noodles, baby tomatoes, basil, lemon, garlic, red pepper flakes, parmesan, white wine.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Lobster Garlic Noodles",
+    "description": "maine lobster, shrimp, crab, shiitake mushrooms, honey, spinach, parmesan.",
+    "category": "steaks, seafood & house favorites"
+  },
+  {
+    "name": "Carrot Cake",
+    "description": "cream cheese frosting, carames sauce, powdered sugar.",
+    "category": "desserts"
+  },
+  {
+    "name": "Bread Pudding with Creme Anglaise",
+    "description": "vanilla bean & caramel sauces, vanilla ice cream, powdered sugar.",
+    "category": "desserts"
+  },
+  {
+    "name": "Chocolate Fudge Cake",
+    "description": "three-layer dark chocolate, fudge frosting, chocolate chips, marbled chocolate sauce.",
+    "category": "desserts"
+  },
+  {
+    "name": "Mini Cheesecake Brulee",
+    "description": "caramelized crispy sugar topping.",
+    "category": "desserts"
+  },
+  {
+    "name": "Brookie",
+    "description": "cookie dough fudge brownie, chocolate & caramel sauces, vanilla ice cream.",
+    "category": "desserts"
+  },
+  {
+    "name": "Fried Chicken Tenders",
+    "description": "white meat chicken breast strips, buttermilk ranch dressing.",
+    "category": "kids favorites"
+  },
+  {
+    "name": "Grilled Chicken",
+    "description": "choice of bbq or sweet soy chicnger sauce.",
+    "category": "kids favorites"
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "description": "tomato sauce, shredded mozzarella, pepperoni.",
+    "category": "kids favorites"
+  },
+  {
+    "name": "Cheese Pizza",
+    "description": "tomato sauce, shredded mozzarella.",
+    "category": "kids favorites"
+  },
+  {
+    "name": "Burger",
+    "description": "toasted brioche bun",
+    "category": "kids favorites"
+  },
+  {
+    "name": "Cheeseburger",
+    "description": "cheddar, toasted brioche bun.",
+    "category": "kids favorites"
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "description": "cheddar, grilled artisan bread.",
+    "category": "kids favorites"
+  },
+  {
+    "name": "Mac & Cheese",
+    "description": "elbow macaroni, cheddar cheese sauce.",
+    "category": "kids favorites"
+  },
+  {
+    "name": "Fish & Chips",
+    "description": "tartar sauce, fries.",
+    "category": "kids favorites"
+  }
+]
