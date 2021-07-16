@@ -9,7 +9,7 @@ function shuffle(arr) {
     currentIdx--
 
     // and swap it with the current element.
-    ;[arr[currentIdx], arr[randomIdx]] = [arr[randomIdx], arr[currentIdx]]
+    [arr[currentIdx], arr[randomIdx]] = [arr[randomIdx], arr[currentIdx]]
   }
 
   return arr

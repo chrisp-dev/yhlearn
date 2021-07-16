@@ -948,5 +948,225 @@
     "name": "Fish & Chips",
     "description": "tartar sauce, fries.",
     "category": "kids favorites"
+  },
+  {
+    "name": "The Golden Rule",
+    "description": "35 and Under!... All yard house service team members are required to ID everyone who appears AGE 35 AND UNDER. Failure to do so may result in disciplinary action up to and including termination as outlined int he Yard House Service of Alcohol Agreement.",
+    "category": "responsible alcohol service"
+  },
+  {
+    "name": "Approving ID's",
+    "description": "Valid state driver's license or ID card that you are familiar with, Passports from the U.S., Military ID",
+    "category": "responsible alcohol service"
+  },
+  {
+    "name": "Hops",
+    "description": "The bitterness of hops balances the sweetness of the malt.",
+    "category": "Beer"
+  },
+  {
+    "name": "Yard House Beer Flight",
+    "description": "House 6 - House Golden Pilsner, House Honey Blonde, House White Ale, House IPA, House Belgian Golden, House Belgian Amber Tripel",
+    "category": "Beer"
+  },
+  {
+    "name": "House Golden Pilsner",
+    "description": "Deeply refreshing Pilsner that offers a clean and classic Pilsner aroma paired with the taste of malty sweetness moving into light bitterness. Light bodies and session-friendly.",
+    "category": "House Beers"
+  },
+  {
+    "name": "House Honey Blonde",
+    "description": "A subtle and refreshing, light bodied Blonde Ale with a kiss of sweetness. The addition of real honey to the brewing process provides notes of orange blossom and a smooth finish.",
+    "category": "House Beers"
+  },
+  {
+    "name": "House White Ale",
+    "description": "Our House White Ale takes the best of both worlds combining the approachability of many of the more common White Ales and adds a distinct floral/spice note provided by the bitter orange peel and coriander that you may find in many craft examples of the style.",
+    "category": "House Beers"
+  }, 
+  {
+    "name": "House IPA",
+    "description": "Our House IPA has a blend of different hop varieties that give it a big hop aroma and distinct bitterness with layers of pine, cedar and citrus flavors.",
+    "category": "House Beers"
+  },
+  {
+    "name": "House Belgian Golden",
+    "description": "Our Belgian Golden has big ripe fruit flavors and an aged hop aroma. With a perfect golden hue and slight caramel notes, this is a world class Godlen Ale that provides a lingering finish.",
+    "category": "House Beers"
+  },
+  {
+    "name": "House Amber Tripel Belgian",
+    "description": "A more flavorful approach to the Tripel style, this complex ale uses caramel malts and noble hops for added body and character, With a bold and sitinctly Belgian flavor this beer has a rich finish.",
+    "category": "House Beers"
+  },
+  {
+    "name": "Yard House Cuvee",
+    "description": "Yard House Cuvee was crafted by our Chefs specifically to pair with our food. By blending together three different traditional Belgian beers, we are able to make a beer that has the bold characteristics and complexity found in strong Belgian beers, but has the brightness and approachability from a great Belgian Wit. The result,, just like our food, is familiar but chock full of bold fun flavors and is unlike anything offered elsewhere. Straw in color, it is compromise dof 50% Belgian Wit Beer, 25% Belgian Tripel and 25% Belgian Golden Ale.",
+    "category": "House Beers"
+  },
+  {
+    "name": "Yard House Liquid Compass",
+    "description": "We partnered with Stone Brewing and Aviation Gin to brew a hazy Double IPA that has been finished with gin botanicals. This beer is an ode to the modern American gin as well as the New England style IPA and it breaks down boundaries between beer and spirits. Liquid Compass has aromas of ripe stone fruits and sweet orange peel and a palate loaded with tropical fruits and candied lime but then finishes with a whisper of juniper and coriander that will rend you of your favorite gin cocktail.",
+    "category": "House Beers"
+  },
+  {
+    "name": "Yard House Noble Pursuit",
+    "description": "Noble pursuit is the intersecting path between legends in the beer, food and tequila worlds in a margarita inspired IPA that set a resounding new direction in the quest for great beer. The brewers from New Belgium and Magnolia brought their mastery of the IPA in sync with the essence of Casa Noble Tequila via agave, lime and a pinch of salt. i stopped typing i don't care",
+    "category": "House Beers"
+  },
+  {
+    "name": "Yard House Southern Pass",
+    "description": "This beer is a Mesquite Lightly Smoked Amber Lager inspired by Lonbranch Bourbon. A quickly realized unifying feature in both beer and bourbon was corn. It defines both bourbon and Mexican Lagers. Beyond just the ingredient tie, Texas also serves as a connecting point for both Longbranch bourbon and Mexican Lagers. The beer style is rooted in history around the Mexican War of Independance. Following the war, German and Austrian immigrants settled in what is now Texas & Mexico and brought the beer they were familiar with into the region, Vienna lagers. Negra Modelo is the most cocmmon modern-day example of this style of beer.",
+    "category": "House Beers"
+  },
+  {
+    "name": "Light Category",
+    "description": "Light and easy styles of beer appeal to a wide range of drinkers and are a refreshing thirst uencher on warm days. These beers are lower in calories and ABV.",
+    "category": "beer categories"
+  },
+  { 
+    "name": "Miller Lite",
+    "description": "Light lager",
+    "category": "light beer"
+  },
+  {
+    "name": "Bud Light",
+    "description": "Light Lager",
+    "category": "light beer"
+  },
+  {
+    "name": "Crisp-Refreshing Category",
+    "description": "We included Pale Lagers, Blonde Ales, Honey Beers, and Pilsners. This category is great for beginner beer drinkers because these styles offer mild refersing flavors that are easy drinking.",
+    "category": "beer categories"
+  },
+  {
+    "name": "Pale Lager",
+    "category": "crisp-refreshing beer",
+    "description": "Pale Lagers are generally light bodied with a light hop impression and a clean, crisp malt character. Quality, from a flavor point of view, is very variable within this style and many cheaper examples use a propportino of non-malt additives such as rice or corn to reduce the production costs."
+  },
+  {
+    "name": "Blonde Ale",
+    "category": "crisp-refreshing beer",
+    "description": "Blonde Ales are not to be confused with Belian Blonde Ales; these are essentially lighter versions of Pale Ales that more closely mimic Pale Lagers. Craft brewers will usually brew Blonde Ales as their lighter beers for mass market appeal as they are quicker and more cost effective to produce than a standard Lager."
+  },
+  {
+    "name": "Honey Beer",
+    "category": "crisp-refreshing beer",
+    "description": "Honey Beers are simply a bit sweeter than whatever beer style the honey is added to . Honey used prior to fermentation adds more fermenetable sugars often times increasing the alcohol content whereas adding honey poast fermentation adds a residucal sweetness. In both cases honey provides a welcome sweetness complimenting the malts used and contrasting the bitterness of hops."
+  },
+  {
+    "name": "Pilsner",
+    "category": "crisp-refreshing beer",
+    "description": "Pilsners are medium bodied and usually characterized by high carbonation and tangy Czech varieties of hops that impart floral aromas and a crisp, bitter finish. German Pilsner styles are similar, though a bit less tangy. Pilsern Urquell is the quintessential Pilsner and started brewing the 1842 while Czechvar (under the name Budvar) was a mere fifty years behind. It is said that the further you get form the Czech Republic the lower th quality of the Pilsner, although many notable American versions exist."
+  },
+  {
+    "name": "IPA - Hoppy Category",
+    "category": "beer categories",
+    "description": "These beers contain more hops in the brewing process thereby creating a bold, bitter and pine-like flavor. Common characteristics include floral, citrus and herbaceous aromas."
+  },
+  {
+    "name": "Pale Ale",
+    "category": "ipa - hoppy beer",
+    "description": "Pale Ales in the UK are often referred to as Bitters (which is confusing because they are usually less bitter than US versions). English versions are usually more balanced with a moderate malt body and subdued bitter finish. American Pale Ales are crisper and generally much hoppier with pronounced bitter pine, cedar and sometimes citrus notes."
+  },
+  {
+    "name": "IPA",
+    "category": "ipa - hoppy beer",
+    "description": "IPAs are deep gold to amber in color, and are usually characterized by strong floral hop aromas and distinctive hop bitterness on the finish. Depending on what varieties of hops are used you may taste citrus fruits such as grapefruit, tangerine o rpassionfruit in addition to the normal cedar, pine and Christmas tree-like flavors."
+  },
+  {
+    "name": "Double IPA / Imperial IPA",
+    "description": "Double IPAs / Imperial IPAs - The history of Double or Imperial IPAs is a short one that starts in the Southern California region of San Diego where brewers decided to increase the amount of hops used by twice the normal amount to create an extreme version of the very popular India Pale Ale category. Due to the imbalance of simply adding double the amount of hops brewers chose to also add approximately 50% more malt as well adding both balance and a higher alcohol content.",
+    "category": "ipa - hoppy beer"
+  },
+  {
+    "name": "Wheat",
+    "category": "beer categories",
+    "description": "These refreshing brews all include the use of wheat as a major ingredient into the brewing process and are traditionally unfiltered. American versions tend to be citrusy and more apporachable. Belgian style White Ales or 'Witbiers' contains a healthy dose of spiced coriander and orange peel while the Bavarian Wheat or 'Weiss' beers have a more pronounced banana and clove flavor."
+  },
+  {
+    "name": "Hefeweizen/Weissbier",
+    "category": "wheat beer",
+    "description": "Hefewiesens 'Hefe' is the German word for yeast and 'Weizen' translates as wheat, meaning that these are unfiltered wheat beers. The style is brewed with at least 50% wheat in the mast. Hefeweizens are refreshing, highly carbonated beers ideal for quenching summer thirsts."
+  },
+  {
+    "name": "White Ale",
+    "category": "wheat beer",
+    "description": "White Ales or 'Witbiers' are a refreshing style of wheat beer originating from Belgium with Hoegaarden re-introducing the world to the 'defunct' style in the 1980s. Belgian versions tend to have a more pronounced coriander note to accompany the dried orange peel and wheat. While American versions tend to have a more citrusy, fruit-forward approach."
+  },
+  {
+    "name": "Belgian Wit",
+    "category": "wheat beer",
+    "description": "Wit beers employ a proportion of unmalted wheat in the mash but also have flavor added iln the form of Curacoe, ornage peel and coriander, among other ingredients. Typically these are very refreshing summer thirst quenchers that have grown in the U.S., presumably because of the popularity of the German wheat beer style. Produced largely in Belgium these beers exemplify the differnce between theGerman & Belian brewing philosophies. Germans traditionally adhere strictly to the 4 main ingredients while Belgians are much more liberal in the ingredients they use in the brewing process."
+  },
+  {
+    "name": "Fruity-Sour",
+    "category": "beer categories",
+    "description": "Fruit Beers can be great suggestions for those Guests who don't enjoy the taste of traditional beer as the fruit flavors tend to make them more approachable. Sour Ales are mouth puckering, tart, yet still refreshing beers often times with extreme sour apple and under-ripe fruit-flavors."
+  },
+  {
+    "name": "Sour",
+    "category": "fruity-sour",
+    "description": "Sours include Traditional Unblended Lambics, Gueze style Lambics, and American Wild Ales. These beers are bright, tart and definitively soure with a mouthwatering puckering effect. The combination of fruity esters and rich malt character is blended by a tart, complex sour finish with hops mostly unperceivable."
+  },
+  {
+    "name": "Gose (Goes - Uh)",
+    "category": "fruity-sour",
+    "description": "Gose style beers belong to a unique category of sour wheat Ales that use both coriander and sea salt producing a refreshing beer that is different from anything else on our menus. These beers often have a sour/tart finish through the use of lactobacillus bacteria."
+  },
+  {
+    "name": "Fruit Beer",
+    "category": "fruity-sour",
+    "description": "Fruit Beers while originating in Belgium have morphed into a catgory of their own in the US wth many breweries specializing in only, or mostly, fruit offerings. The best examples of the style use real or fresly pureed fruit and never extracts or additional flavorings as quality between the two is noticeably different. most commonly breweries add fruit to lighter styles allowing the flavors to be showcased with the most common fruits being: cherries, raspberries, peaches, blueberries, apricots and citrus fruits."
+  },
+  {
+    "name": "Brown-Stout Category",
+    "category": "beer categories",
+    "description": "Brown and stout beer style are those whre the brewers have roasted the grains to a higher degree thereby creating roasted falvors of caramel, toffee, chocolate, coffee and espresso. Brown Ales start at the lighter end of the spectrum and are often characterized by a soft nutty texture where Stouts contain a more bold coffe and chocolate complexity."
+  },
+  {
+    "name": "Brown Ale",
+    "category": "brown-stout",
+    "description": "Brown Ales are typically associated with Northern England, specifically Newcastle, home to Newcastle Brown Ale. These medium-bodied reddish-brown beers are malt accented with a toasted nutty character, a gentle fruitiness, & low bitterness. American Brown Ales tend to be bolder with a more pronounced malt character including chocolate and coffee notes."
+  },
+  {
+    "name": "Stout",
+    "category": "brown-stout",
+    "description": "Stouts are very dark, almost black beers, and feature a hevaily roasted flavor profile. This is achieved by brewing with malt that has been kilned until it resembles burn toast. Most stouts at the Yard House are served through a nitrogen dispenser for a smooth, cremay texture buth some exceptions do exist."
+  },
+  {
+    "name": "Strong-Golden Category",
+    "category": "beer categories",
+    "description": "Belgian-Style Strong Ales are some of the most unique and sought after beers int he entire world. Belgian Pale Ales, Blondes, Asisons, Golden Ales and Tripels are all favorful, slightly sweeet, effervescent, with a characteristic spice flavor that is usually imparted by a combination of unique malts and brewer's yeast. These are also some of the more approachable Belgian Style STrong Ales."
+  },
+  {
+    "name": "Belgian Golden",
+    "category": "strong-golden beer",
+    "description": "Belgian Golden & Belgian Strong Ales are by definition sturdy brews that have a strong and assertive flavor profile. Belgian Golden Strong Ales often feature sweet to toasted malt overtones, a nice natural spice character and a dry floral finish provided by the yeast and hops. Delirum Tremens has become almost synonymous with the style as in the mid 90s it was declared the best beer in the world by a panel of experts in Europe."
+  },
+  {
+    "name": "Belgian Tripel",
+    "category": "strong-golden beer",
+    "description": "Belgian Tripels are similar to Belgian Goldens, Tripels are light in color with a medium body possessing many of the same qualities that make them extremely drinkable. Most examples have a soft, floral body with some ctrius notes, and fruity Belgian yeast esters on the nose."
+  },
+  {
+    "name": "Strong-Dark Category",
+    "category": "beer categories",
+    "description": "This category contains some of the boldest most complex and uniquely flavorful beers on the menu. Strong ales, scotch ales and barley wines are deep, rich, Dark ales that are bold, full malt character often accompanied by hop flavor and finish with warming character, like a brandy. Belgian Style Dubbels, Dark Strong Ales and Quadrupels are dep rich brown ales that can be as high as 11.0% ABV."
+  },
+  {
+    "name": "Belgian Quadrupels",
+    "description": "Belgian Quadrupels are the ultimate expression of Belgian brewing both in complexity and body and feature an eelevated alcohol content. Quadrupels are bolder than both the Dubbel & Tripel styles with a dark rich, malty character, low bitterness levels and a signature dark ripe fruit and toffee finish. Flavors of black cherry, plum, fig, brown sugar and even tobacco can be found in their dark mysterious depths.",
+    "category": "strong-dark beer"
+  },
+  {
+    "name": "Cider Category",
+    "category": "beer categories",
+    "description": "Ciders are fermented from either apples, pears or a combination of both fruits. The quality of the fruit used and the style of yeast determine the overall flavors."
+  },
+  {
+    "name": "Ciders",
+    "category": "cider",
+    "description": "Ciders are effervescent and sweet with a crisp dry finish and fruit finish usually addded after fermentaiton. While most Ciders are produced using apples and then flavored to match the desired finish some Ciders are made form wither pears or a blend of apples and pears and are subsequently called 'perry'."
   }
 ]
