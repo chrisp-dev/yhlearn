@@ -8,9 +8,9 @@ function showItem(e, x, category, reverse) {
 
   if (category && category !== 'all') {
     if (reverse) {
-      data1 = x.filter((d) => d.category === category).map((d) => ({ front: { text: d.description }, back: { text: d.name } }))
+      data1 = x.filter((d) => (d.category === category) || (d.name.toLowerCase() === category)).map((d) => ({ front: { text: d.description }, back: { text: d.name } }))
     } else {
-      data1 = x.filter((d) => d.category === category).map((d) => ({ front: { text: d.name }, back: { text: d.description } }))
+      data1 = x.filter((d) => (d.category === category) || (d.name.toLowerCase() === category)).map((d) => ({ front: { text: d.name }, back: { text: d.description } }))
     }
   } else {
     if (reverse) {

@@ -1020,43 +1020,49 @@
     "category": "House Beers"
   },
   {
-    "name": "Light Category",
+    "name": "Light",
     "description": "Light and easy styles of beer appeal to a wide range of drinkers and are a refreshing thirst uencher on warm days. These beers are lower in calories and ABV.",
     "category": "beer categories"
   },
   { 
     "name": "Miller Lite",
     "description": "Light lager",
-    "category": "light beer"
+    "beerCategory": "",
+    "category": "light"
   },
   {
     "name": "Bud Light",
     "description": "Light Lager",
-    "category": "light beer"
+    "beerCategory": "",
+    "category": "light"
   },
   {
-    "name": "Crisp-Refreshing Category",
+    "name": "Crisp - Refreshing",
     "description": "We included Pale Lagers, Blonde Ales, Honey Beers, and Pilsners. This category is great for beginner beer drinkers because these styles offer mild refersing flavors that are easy drinking.",
     "category": "beer categories"
   },
   {
     "name": "Pale Lager",
-    "category": "crisp-refreshing beer",
+    "category": "crisp - refreshing",
+    "beerCategory": "",
     "description": "Pale Lagers are generally light bodied with a light hop impression and a clean, crisp malt character. Quality, from a flavor point of view, is very variable within this style and many cheaper examples use a propportino of non-malt additives such as rice or corn to reduce the production costs."
   },
   {
     "name": "Blonde Ale",
-    "category": "crisp-refreshing beer",
+    "category": "crisp - refreshing",
+    "beerCategory": "",
     "description": "Blonde Ales are not to be confused with Belian Blonde Ales; these are essentially lighter versions of Pale Ales that more closely mimic Pale Lagers. Craft brewers will usually brew Blonde Ales as their lighter beers for mass market appeal as they are quicker and more cost effective to produce than a standard Lager."
   },
   {
     "name": "Honey Beer",
-    "category": "crisp-refreshing beer",
+    "category": "crisp - refreshing",
+    "beerCategory": "",
     "description": "Honey Beers are simply a bit sweeter than whatever beer style the honey is added to . Honey used prior to fermentation adds more fermenetable sugars often times increasing the alcohol content whereas adding honey poast fermentation adds a residucal sweetness. In both cases honey provides a welcome sweetness complimenting the malts used and contrasting the bitterness of hops."
   },
   {
     "name": "Pilsner",
-    "category": "crisp-refreshing beer",
+    "category": "crisp - refreshing",
+    "beerCategory": "",
     "description": "Pilsners are medium bodied and usually characterized by high carbonation and tangy Czech varieties of hops that impart floral aromas and a crisp, bitter finish. German Pilsner styles are similar, though a bit less tangy. Pilsern Urquell is the quintessential Pilsner and started brewing the 1842 while Czechvar (under the name Budvar) was a mere fifty years behind. It is said that the further you get form the Czech Republic the lower th quality of the Pilsner, although many notable American versions exist."
   },
   {
@@ -1066,18 +1072,21 @@
   },
   {
     "name": "Pale Ale",
-    "category": "ipa - hoppy beer",
+    "category": "ipa - hoppy",
+    "beerCategory": "",
     "description": "Pale Ales in the UK are often referred to as Bitters (which is confusing because they are usually less bitter than US versions). English versions are usually more balanced with a moderate malt body and subdued bitter finish. American Pale Ales are crisper and generally much hoppier with pronounced bitter pine, cedar and sometimes citrus notes."
   },
   {
     "name": "IPA",
-    "category": "ipa - hoppy beer",
+    "category": "ipa - hoppy",
+    "beerCategory": "",
     "description": "IPAs are deep gold to amber in color, and are usually characterized by strong floral hop aromas and distinctive hop bitterness on the finish. Depending on what varieties of hops are used you may taste citrus fruits such as grapefruit, tangerine o rpassionfruit in addition to the normal cedar, pine and Christmas tree-like flavors."
   },
   {
     "name": "Double IPA / Imperial IPA",
+    "beerCategory": "",
     "description": "Double IPAs / Imperial IPAs - The history of Double or Imperial IPAs is a short one that starts in the Southern California region of San Diego where brewers decided to increase the amount of hops used by twice the normal amount to create an extreme version of the very popular India Pale Ale category. Due to the imbalance of simply adding double the amount of hops brewers chose to also add approximately 50% more malt as well adding both balance and a higher alcohol content.",
-    "category": "ipa - hoppy beer"
+    "category": "ipa - hoppy"
   },
   {
     "name": "Wheat",
@@ -1086,67 +1095,77 @@
   },
   {
     "name": "Hefeweizen/Weissbier",
-    "category": "wheat beer",
+    "category": "wheat",
+    "beerCategory": "",
     "description": "Hefewiesens 'Hefe' is the German word for yeast and 'Weizen' translates as wheat, meaning that these are unfiltered wheat beers. The style is brewed with at least 50% wheat in the mast. Hefeweizens are refreshing, highly carbonated beers ideal for quenching summer thirsts."
   },
   {
     "name": "White Ale",
-    "category": "wheat beer",
+    "category": "wheat",
+    "beerCategory": "",
     "description": "White Ales or 'Witbiers' are a refreshing style of wheat beer originating from Belgium with Hoegaarden re-introducing the world to the 'defunct' style in the 1980s. Belgian versions tend to have a more pronounced coriander note to accompany the dried orange peel and wheat. While American versions tend to have a more citrusy, fruit-forward approach."
   },
   {
     "name": "Belgian Wit",
-    "category": "wheat beer",
+    "category": "wheat",
+    "beerCategory": "",
     "description": "Wit beers employ a proportion of unmalted wheat in the mash but also have flavor added iln the form of Curacoe, ornage peel and coriander, among other ingredients. Typically these are very refreshing summer thirst quenchers that have grown in the U.S., presumably because of the popularity of the German wheat beer style. Produced largely in Belgium these beers exemplify the differnce between theGerman & Belian brewing philosophies. Germans traditionally adhere strictly to the 4 main ingredients while Belgians are much more liberal in the ingredients they use in the brewing process."
   },
   {
-    "name": "Fruity-Sour",
+    "name": "Fruity - Sour",
     "category": "beer categories",
     "description": "Fruit Beers can be great suggestions for those Guests who don't enjoy the taste of traditional beer as the fruit flavors tend to make them more approachable. Sour Ales are mouth puckering, tart, yet still refreshing beers often times with extreme sour apple and under-ripe fruit-flavors."
   },
   {
     "name": "Sour",
-    "category": "fruity-sour",
+    "category": "fruity - sour",
+    "beerCategory": "",
     "description": "Sours include Traditional Unblended Lambics, Gueze style Lambics, and American Wild Ales. These beers are bright, tart and definitively soure with a mouthwatering puckering effect. The combination of fruity esters and rich malt character is blended by a tart, complex sour finish with hops mostly unperceivable."
   },
   {
     "name": "Gose (Goes - Uh)",
-    "category": "fruity-sour",
+    "category": "fruity - sour",
+    "beerCategory": "",
     "description": "Gose style beers belong to a unique category of sour wheat Ales that use both coriander and sea salt producing a refreshing beer that is different from anything else on our menus. These beers often have a sour/tart finish through the use of lactobacillus bacteria."
   },
   {
     "name": "Fruit Beer",
-    "category": "fruity-sour",
+    "category": "fruity - sour",
+    "beerCategory": "",
     "description": "Fruit Beers while originating in Belgium have morphed into a catgory of their own in the US wth many breweries specializing in only, or mostly, fruit offerings. The best examples of the style use real or fresly pureed fruit and never extracts or additional flavorings as quality between the two is noticeably different. most commonly breweries add fruit to lighter styles allowing the flavors to be showcased with the most common fruits being: cherries, raspberries, peaches, blueberries, apricots and citrus fruits."
   },
   {
-    "name": "Brown-Stout Category",
+    "name": "Brown-Stout",
     "category": "beer categories",
     "description": "Brown and stout beer style are those whre the brewers have roasted the grains to a higher degree thereby creating roasted falvors of caramel, toffee, chocolate, coffee and espresso. Brown Ales start at the lighter end of the spectrum and are often characterized by a soft nutty texture where Stouts contain a more bold coffe and chocolate complexity."
   },
   {
     "name": "Brown Ale",
-    "category": "brown-stout",
+    "category": "brown - stout",
+    "beerCategory": "",
     "description": "Brown Ales are typically associated with Northern England, specifically Newcastle, home to Newcastle Brown Ale. These medium-bodied reddish-brown beers are malt accented with a toasted nutty character, a gentle fruitiness, & low bitterness. American Brown Ales tend to be bolder with a more pronounced malt character including chocolate and coffee notes."
   },
   {
     "name": "Stout",
-    "category": "brown-stout",
+    "category": "brown - stout",
+    "beerCategory": "",
     "description": "Stouts are very dark, almost black beers, and feature a hevaily roasted flavor profile. This is achieved by brewing with malt that has been kilned until it resembles burn toast. Most stouts at the Yard House are served through a nitrogen dispenser for a smooth, cremay texture buth some exceptions do exist."
   },
   {
-    "name": "Strong-Golden Category",
+    "name": "Strong - Golden",
     "category": "beer categories",
     "description": "Belgian-Style Strong Ales are some of the most unique and sought after beers int he entire world. Belgian Pale Ales, Blondes, Asisons, Golden Ales and Tripels are all favorful, slightly sweeet, effervescent, with a characteristic spice flavor that is usually imparted by a combination of unique malts and brewer's yeast. These are also some of the more approachable Belgian Style STrong Ales."
   },
   {
     "name": "Belgian Golden",
-    "category": "strong-golden beer",
+    "category": "strong - golden",
+    "beerCategory": "",
     "description": "Belgian Golden & Belgian Strong Ales are by definition sturdy brews that have a strong and assertive flavor profile. Belgian Golden Strong Ales often feature sweet to toasted malt overtones, a nice natural spice character and a dry floral finish provided by the yeast and hops. Delirum Tremens has become almost synonymous with the style as in the mid 90s it was declared the best beer in the world by a panel of experts in Europe."
   },
   {
     "name": "Belgian Tripel",
-    "category": "strong-golden beer",
+    "category": "strong - golden",
+    "beerCategory": "",
     "description": "Belgian Tripels are similar to Belgian Goldens, Tripels are light in color with a medium body possessing many of the same qualities that make them extremely drinkable. Most examples have a soft, floral body with some ctrius notes, and fruity Belgian yeast esters on the nose."
   },
   {
@@ -1156,6 +1175,7 @@
   },
   {
     "name": "Belgian Quadrupels",
+    "beerCategory": "",
     "description": "Belgian Quadrupels are the ultimate expression of Belgian brewing both in complexity and body and feature an eelevated alcohol content. Quadrupels are bolder than both the Dubbel & Tripel styles with a dark rich, malty character, low bitterness levels and a signature dark ripe fruit and toffee finish. Flavors of black cherry, plum, fig, brown sugar and even tobacco can be found in their dark mysterious depths.",
     "category": "strong-dark beer"
   },
@@ -1167,6 +1187,7 @@
   {
     "name": "Ciders",
     "category": "cider",
+    "beerCategory": "",
     "description": "Ciders are effervescent and sweet with a crisp dry finish and fruit finish usually addded after fermentaiton. While most Ciders are produced using apples and then flavored to match the desired finish some Ciders are made form wither pears or a blend of apples and pears and are subsequently called 'perry'."
   }
 ]
